@@ -42,3 +42,6 @@ it executes like a block
 >this is block code
 >>this is a nested block code
 >>>this is double nested code
+
+## Inserting urls
+[youtube](earch.yahoo.com/search;_ylt=Awr9CKwFnhNgzn4ALd1XNyoA;_ylc=X1MDMjc2NjY3OQRfcgMyBGZyA21jYWZlZQRmcjIDc2EtZ3Atc2VhcmNoBGdwcmlkA05UQi41MFRQVGFHbEd4Q0R4QWRVbUEEbl9yc2x0AzAEbl9zdWdnAzkEb3JpZ2luA3NlYXJjaC55YWhvby5jb20EcG9zAzEEcHFzdHIDeW91dHViZQRwcXN0cmwDNwRxc3RybAMxMQRxdWVyeQN5b3V0dWJlLmNvbQR0X3N0bXADMTYxMTg5ODQxMQR1c2VfY2FzZQM-?p=youtube.com&fr2=sa-gp-search&fr=mcafee&type=E211US885G0)
