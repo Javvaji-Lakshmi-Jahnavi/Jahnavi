@@ -51,3 +51,6 @@ it executes like a block
 ## image insertion
 
 ![image of watch](https://github.com/Javvaji-Lakshmi-Jahnavi/Jahnavi/blob/main/watch.jpg)
+
+
+show jahnavi
