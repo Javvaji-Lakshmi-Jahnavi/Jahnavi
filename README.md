@@ -47,3 +47,7 @@ it executes like a block
 [youtube](https://www.youtube.com/)
 
 [Gmail](https://www.gmail.com/)
+
+## image insertion
+
+![image of watch](https://github.com/Javvaji-Lakshmi-Jahnavi/Jahnavi/blob/main/watch.jpg)
