@@ -28,3 +28,12 @@ _**bold and italic**_
 - 3rd year
     * 3a
     * 3b
+    
+hello this is janu
+
+i am studying btech.
+in kits college
+
+# blocked text
+>this is a block code. 
+it executes like a block
